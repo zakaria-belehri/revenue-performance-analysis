@@ -29,6 +29,29 @@ The analysis covers the full workflow from raw data exploration to KPI modeling,
 - Which factors explain profit fluctuations?
 - Which KPIs are most strongly related to revenue performance?
 
+## Key Insights
+
+- Revenue is strongly driven by **order volume and active customers**, confirming a volume-based business model.
+- Average Order Value (AOV) shows a **negative relationship with revenue growth**, suggesting larger baskets may reduce purchase frequency.
+- Profit margin correlation indicates that growth is partly driven by **discounting or customer acquisition costs**.
+- Contribution margin remains stable at ~46.6%, meaning pricing and cost structure are consistent across the year.
+
+## Business Interpretation
+
+The business is currently operating as a **volume-driven model**, where growth depends on increasing customer activity rather than increasing order size.
+
+This suggests:
+
+- Growth is scalable but sensitive to demand
+- Increasing AOV may harm conversion or frequency
+- Profitability depends heavily on efficient customer acquisition
+
+## Recommendations
+
+- Focus on **customer retention and repeat purchases** rather than increasing basket size  
+- Improve **marketing efficiency** to reduce dependency on discount-driven growth  
+- Optimize **COGS and logistics** to protect margins at scale  
+
 ## Dashboard Preview
 
 Dashboard screenshots are available in the `/dashboard` folder.
