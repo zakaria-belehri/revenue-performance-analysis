@@ -14,13 +14,6 @@ This project answers three main questions:
 
 ---
 
-## Dashboard Preview
-
-![Dashboard 1](dashboard/dashboard_page_1.png)  
-![Dashboard 2](dashboard/dashboard_page_2.png)
-
----
-
 ## Key Takeaways
 
 - Revenue is mainly driven by **customers and order volume**  
@@ -51,7 +44,6 @@ Since margins are stable, the key challenge is **efficient growth**, not pricing
 - Investigate the December drop  
 
 ---
-
 ## Project Structure
 
 revenue-performance-analysis/
@@ -61,15 +53,12 @@ revenue-performance-analysis/
 ├── README.md
 └── LICENSE
 
-
 ---
-
 ## Workflow
 
 Raw data → Cleaning → Fact table → KPIs → Revenue bridge → Profit bridge → Dashboard → Business insights
 
 ---
-
 ## Tools
 
 - SQL (PostgreSQL)
@@ -77,7 +66,6 @@ Raw data → Cleaning → Fact table → KPIs → Revenue bridge → Profit brid
 - Looker Studio
 
 ---
-
 ## Takeaway
 
 This project shows how to go from raw data to clear business decisions.
